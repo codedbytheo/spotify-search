@@ -1,0 +1,11 @@
+{
+  "name": "spotify-search",
+  "version": "1.0.0",
+  "description": "NodeJS application that uses the Spotify API to search for your favorite tracks and retrieve some basic details about them. P.S - This was a university project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Theo Snyman",
+  "license": "ISC"
+}
