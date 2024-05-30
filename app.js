@@ -1,7 +1,7 @@
 // importing all required modules for the application
+require('dotenv').config()
 const axios = require('axios')
 const { URLSearchParams } = require('url')
-const dotenv = require('dotenv').config()
 const readline = require('readline').createInterface({
   input: process.stdin,
   output: process.stdout
@@ -105,3 +105,9 @@ const mainMenu = async () => {
 }
 
 mainMenu()
+
+/*
+  TODO:
+  -----
+  - setup project README, must be informational.
+*/
